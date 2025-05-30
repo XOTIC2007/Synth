@@ -1,6 +1,6 @@
 module.exports = {  
   token: {
-    Primary: "MTM3MjI0MjcyNjg2NjY1MzI1NA.GBfYu2.PW7gnOSe1jzeh6ACLEpoEMNlopScKq0O3QCq0k",
+    Primary: "MTM3MjI0MjcyNjg2NjY1MzI1NA.GwPxZh.wkhrYG0hYgFvVpGCAxPscgccNo3fES2VFyr41Q",
     Secondary: "",
   },
   tokenTopgg: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjkwNDMxNzE0MTg2NjY0NzU5MiIsImJvdCI6dHJ1ZSwiaWF0IjoxNjczNTI3OTYzfQ.WwA0KXh_nAQcBmR7BPqgLGyElYZheTQmguQfA2F6aNc",
