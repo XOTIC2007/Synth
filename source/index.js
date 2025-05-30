@@ -1,6 +1,6 @@
 const { ReClusterManager, HeartbeatManager, messageType } = require('discord-hybrid-sharding');
 const { avonlodepe } = require('./cluster');
-const { LoadBalancer } = require('./.gg/ahmm');
+const { LoadBalancer } = require('./gg/ahmm');
 const config = require('./Config');
 
 const manager = new avonlodepe(`./source/RedFlagzz.js`, {
